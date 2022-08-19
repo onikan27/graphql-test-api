@@ -4,6 +4,7 @@ go 1.19
 
 require (
 	github.com/99designs/gqlgen v0.17.14
+	github.com/rs/cors v1.8.2
 	github.com/vektah/gqlparser/v2 v2.4.8
 )
 
